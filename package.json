@@ -1,0 +1,24 @@
+{
+  "name": "ksana2015-scaffold-default",
+  "description": "New Ksana application",
+  "version": "0.0.1",
+  "main": "index.html",
+  "inject-js-start": "nwmain.js",
+  "single-instance": true,
+  "window": {
+    "toolbar": true,
+    "width": 1060,
+    "height": 700
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://samsuanchen@github.com/samsuanchen/fabrictest01.git"
+  },
+  "readme": "scaffold for ksana2015 app\r\n====\r\n\r\ninstall github.com/ksanaforge/ksana2015\r\n\r\nks mkdb sample",
+  "readmeFilename": "README.md",
+  "_id": "ksana2015-scaffold-default@0.0.1",
+  "_shasum": "8bb7b305af63491477d5cfd548ee30e300c3ccad",
+  "_resolved": "git+https://github.com/ksanaforge/ksana2015-scaffold-default.git#6e75e2e892c451aaf3deb839b533123957252354",
+  "_from": "git+https://github.com/ksanaforge/ksana2015-scaffold-default.git"
+}
